@@ -1,0 +1,12 @@
+EXCEL_PATH=D:\Documents\Public\Python program\Homework Collector\datas\学号姓名.xlsx
+UNSORT_PATH=D:\Documents\Public\Python program\Homework Collector\unsort
+SORTED_PATH=auto
+LOG_PATH=auto
+HW_ID=3
+HW_NAME=信号与系统
+HW_TYPE=作业
+HW_FORMAT=.txt
+HW_NOTE=第1章 题1 题2 题3
+HW_COUNT=19
+NAME_FORMAT=[stuID]_[stuName]_[hwName]第[hwID]次[hwType][hwFormat]
+IDREGEX=40408\d\d\d
